@@ -1,0 +1,12 @@
+# NetBeans specific
+nbproject/private/
+build/
+classes/
+dist/
+
+# Compiled Java files
+*.class
+
+# macOS/Windows clutter
+.DS_Store
+Thumbs.db
